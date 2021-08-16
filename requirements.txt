@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# packages_batch
+git+https://github.com/Heity94/name
